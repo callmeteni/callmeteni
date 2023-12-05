@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 **`Full-Stack Developer`**
-# 👋 Hello, I'm Teniola  - Full Stack Developer
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F73E09&background=4BFF5500&random=false&width=435&lines=Hey%2C+I'm++Teniola+-+A+creative+mind+and+Full-Stack+Developer+on+a+journey+of+innovation.)](https://git.io/typing-svg)
 
 Welcome to my GitHub profile! I'm passionate about creating innovative solutions that bridge the gap between front-end and back-end technologies. With a strong foundation in both client-side and server-side development, I strive to deliver robust and user-friendly applications.
 
