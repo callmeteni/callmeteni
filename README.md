@@ -20,8 +20,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=200&size=19&pause=1000&color=F73E09&background=4BFF5500&random=false&width=550&height=54&lines=Hey%2C+I'm+Teniola++-+A+Creative+Mind+;Full-Stack+Developer+on+a+journey+of+innovation)](https://git.io/typing-svg)
 
 Welcome to my GitHub profile! I'm passionate about creating innovative solutions that bridge the gap between front-end and back-end technologies. With a strong foundation in both client-side and server-side development, I strive to deliver robust and user-friendly applications.
