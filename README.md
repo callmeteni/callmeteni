@@ -113,11 +113,6 @@ I'm currently honing my skills in [specific technology or framework]. Excited ab
 </br>
 </br>
 
-- **Front-end:** HTML, CSS, JavaScript, React, Vue.js
-- **Back-end:** Node.js, Express, Django, Flask
-- **Database:** MongoDB, MySQL, PostgreSQL
-- **DevOps:** Docker, Kubernetes, Jenkins
-- **Version Control:** Git, GitHub
 
 ### 🧰 Languages and Tools
 
