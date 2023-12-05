@@ -55,7 +55,7 @@ I'm currently honing my skills in [specific technology or framework]. Excited ab
 
 ---
 
-### 🧰 Languages and Tools
+
 
 ## 💼 Skills
 
@@ -64,6 +64,8 @@ I'm currently honing my skills in [specific technology or framework]. Excited ab
 - **Database:** MongoDB, MySQL, PostgreSQL
 - **DevOps:** Docker, Kubernetes, Jenkins
 - **Version Control:** Git, GitHub
+
+### 🧰 Languages and Tools
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
