@@ -1,4 +1,6 @@
-<p align="center">
+**`Full-Stack Developer`**
+
+<p align="left">
   <a href="https://github.com/DenverCoder1">
     <img src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" alt="Teniola Ogunlaja" /></a>
 </p>
@@ -17,7 +19,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-**`Full-Stack Developer`**
+
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=200&size=19&pause=1000&color=F73E09&background=4BFF5500&random=false&width=550&height=54&lines=Hey%2C+I'm+Teniola++-+A+Creative+Mind+;Full-Stack+Developer+on+a+journey+of+innovation)](https://git.io/typing-svg)
