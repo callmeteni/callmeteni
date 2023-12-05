@@ -22,7 +22,6 @@ Welcome to my GitHub profile! I'm passionate about creating innovative solutions
 ## 📫 Let's Connect
 
 - LinkedIn: https://www.linkedin.com/in/teniolaogunlaja
-- LinkedIn: https://www.linkedin.com/in/teniolaogunlaja
 
 Feel free to reach out if you have any questions, collaboration ideas, or just want to chat about technology and development!
    
