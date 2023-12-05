@@ -1,4 +1,7 @@
-https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true
+<p align="center">
+  <a href="https://github.com/DenverCoder1">
+    <img src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" alt="Teniola Ogunlaja" /></a>
+</p>
 
 <!--
 **callmeteni/callmeteni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
