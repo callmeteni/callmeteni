@@ -27,7 +27,7 @@ Welcome to my GitHub profile! I'm passionate about creating innovative solutions
 Feel free to reach out if you have any questions, collaboration ideas, or just want to chat about technology and development!
    
 
-
+<!--
 ## 🚀 Projects
 
 ### Project 1: [LightBnB](https://github.com/callmeteni/LightBnB)
@@ -46,7 +46,7 @@ Description of the project. Showcase your contributions, lessons learned, and im
 
 I'm currently honing my skills in [specific technology or framework]. Excited about [upcoming trend or technology] and exploring ways to implement it in my projects.
 
-
+-->
 
 ## 📊 GitHub Stats
 
