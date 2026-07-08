@@ -1,14 +1,14 @@
-<h1 align="center">Hi, I'm Teniola Ogunlaja 👋</h1>h1>
-<h3 align="center">Full-Stack Software Developer | JavaScript · React · Node.js · Ruby on Rails</h3>h3>
+<h1 align="center">Hi, I'm Teniola Ogunlaja 👋</h1>
+<h3 align="center">Full-Stack Software Developer | JavaScript · React · Node.js · Ruby on Rails</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/teniolaogunlaja" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>a>
-    <a href="mailto:isaacogunlaja9@gmail.com" target="_blank">
-	    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-	</a>a>
-</p>p>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:isaacogunlaja9@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
 
@@ -17,12 +17,12 @@
 I'm a full-stack developer with a foundation in mathematics and a focus on building clean, functional web applications end-to-end. My core stack is **JavaScript/TypeScript with React and Node.js**, with hands-on experience in **Ruby on Rails** for backend work.
 
 - 🌱 Focused on deepening my full-stack skills through hands-on project work
-- - 💬 Ask me about: JavaScript, React, Node.js, Ruby on Rails
-  - - 📫 Reach me: isaacogunlaja9@gmail.com or [LinkedIn](https://www.linkedin.com/in/teniolaogunlaja)
-   
-    - ---
+- 💬 Ask me about: JavaScript, React, Node.js, Ruby on Rails
+- 📫 Reach me: isaacogunlaja9@gmail.com or [LinkedIn](https://www.linkedin.com/in/teniolaogunlaja)
 
-	### 🛠️ Tech Stack
+---
+
+### 🛠️ Tech Stack
 
 **Languages**
 
@@ -75,5 +75,5 @@ An online restaurant reservation platform where customers can browse restaurants
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=callmeteni&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=callmeteni&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</p>p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=callmeteni&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+</p>
